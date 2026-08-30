@@ -46,6 +46,9 @@ Flutter Mobile App
 
 The mobile application does not connect directly to the MSSQL database. Database operations are handled through the Node.js API.
 
+## App Structure
+<img src='./readme_files/an.png' alt='app_structure'>
+
 ## Database
 
 - **MSSQL** — Main database
