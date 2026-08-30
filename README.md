@@ -147,4 +147,4 @@ The MSSQL credentials should be configured through the hosting provider's enviro
 
 ---
 
-**Author:** *John Lorenz Codilla*
+*John Lorenz Codilla*
